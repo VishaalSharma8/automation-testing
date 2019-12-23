@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Annotation">
+   <test name="annotation Test">
+       <classes>
+           <class name="Anotation.AnnoTest">
+               <methods>
+                   <include name="beforeClass"/>
+                   <include name="suiteTest"/>
+                   <include name="test"/>
+               </methods>
+           </class>
+       </classes>
+   </test>
+    </suite>

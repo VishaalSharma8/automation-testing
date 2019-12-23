@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e5a1dd0-4346-4d1f-9d12-a7411c01373e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UiBLtSHPdFNCuQnqC2WJGhj8FF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vishal\IdeaProjects\MyFrameWork" />
+      <recent name="C:\Users\vishal\IdeaProjects\MyFrameWork\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.&lt;default&gt; (1)">
+    <configuration name="C:/Users/vishal/IdeaProjects/MyFrameWork/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyFrameWork" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyFrameWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FrameWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FrameWork" />
+      <option name="MAIN_CLASS_NAME" value="FrameWork.TestClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass.scrollTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyFrameWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FrameWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FrameWork" />
+      <option name="MAIN_CLASS_NAME" value="FrameWork.TestClass" />
+      <option name="METHOD_NAME" value="scrollTestCase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <module name="MyFrameWork" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_112\jre" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <module name="MyFrameWork" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_112\jre" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" editBeforeRun="true">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/vishal/IdeaProjects/MyFrameWork/testng.xml" />
+      <item itemvalue="TestNG.TestClass" />
+      <item itemvalue="TestNG.TestClass.scrollTestCase" />
+      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG.&lt;default&gt; (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.&lt;default&gt; (1)" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.C:/Users/vishal/IdeaProjects/MyFrameWork/testng.xml" />
+        <item itemvalue="TestNG.TestClass" />
+        <item itemvalue="TestNG.TestClass.scrollTestCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e5a1dd0-4346-4d1f-9d12-a7411c01373e" name="Default Changelist" comment="" />
+      <created>1575829482158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575829482158</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="40" width="596" height="728" key="#&lt;default&gt;" timestamp="1576906635315">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="392" y="40" width="596" height="728" key="#&lt;default&gt;/0.40.1366.728@0.40.1366.728" timestamp="1576906635315" />
+    <state x="392" y="40" width="596" height="728" key="#&lt;default&gt;_(1)" timestamp="1576906830640">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="392" y="40" width="596" height="728" key="#&lt;default&gt;_(1)/0.40.1366.728@0.40.1366.728" timestamp="1576906830640" />
+    <state x="392" y="40" width="596" height="728" key="#C:/Users/vishal/IdeaProjects/MyFrameWork/testng.xml" timestamp="1575998599603">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="392" y="40" width="596" height="728" key="#C:/Users/vishal/IdeaProjects/MyFrameWork/testng.xml/0.40.1366.728@0.40.1366.728" timestamp="1575998599603" />
+    <state x="392" y="50" key="#FrameWorkPart1" timestamp="1575954442673">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="392" y="50" key="#FrameWorkPart1/0.40.1366.728@0.40.1366.728" timestamp="1575954442673" />
+    <state x="392" y="50" key="#Listener" timestamp="1576152831555">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="392" y="50" key="#Listener/0.40.1366.728@0.40.1366.728" timestamp="1576152831555" />
+    <state x="275" y="61" key="#Notifications" timestamp="1575883971908">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="275" y="61" key="#Notifications/0.40.1366.728@0.40.1366.728" timestamp="1575883971908" />
+    <state x="275" y="61" key="#Project_Structure" timestamp="1576785872761">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="275" y="61" key="#Project_Structure/0.40.1366.728@0.40.1366.728" timestamp="1576785872761" />
+    <state x="137" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576785691380">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="137" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1366.728@0.40.1366.728" timestamp="1576785691380" />
+    <state x="92" y="132" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1576211059493">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="92" y="132" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.40.1366.728@0.40.1366.728" timestamp="1576211059493" />
+    <state x="447" y="205" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576506374235">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="447" y="205" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1366.728@0.40.1366.728" timestamp="1576506374235" />
+    <state x="488" y="112" key="#com.intellij.ide.util.MemberChooser" timestamp="1576516860795">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="488" y="112" key="#com.intellij.ide.util.MemberChooser/0.40.1366.728@0.40.1366.728" timestamp="1576516860795" />
+    <state x="413" y="149" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576604820312">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="413" y="149" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1366.728@0.40.1366.728" timestamp="1576604820312" />
+    <state x="463" y="157" key="FileChooserDialogImpl" timestamp="1576783994225">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="463" y="157" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1576783994225" />
+    <state width="1322" height="146" key="GridCell.Tab.0.bottom" timestamp="1576790035102">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1322" height="146" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1576790035102" />
+    <state width="1322" height="146" key="GridCell.Tab.0.center" timestamp="1576790035102">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1322" height="146" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1576790035102" />
+    <state width="1322" height="146" key="GridCell.Tab.0.left" timestamp="1576790035102">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1322" height="146" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1576790035102" />
+    <state width="1322" height="146" key="GridCell.Tab.0.right" timestamp="1576790035102">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1322" height="146" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1576790035102" />
+    <state width="1306" height="201" key="GridCell.Tab.1.bottom" timestamp="1576530947157">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1306" height="201" key="GridCell.Tab.1.bottom/0.40.1366.728@0.40.1366.728" timestamp="1576530947157" />
+    <state width="1306" height="201" key="GridCell.Tab.1.center" timestamp="1576530947157">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1306" height="201" key="GridCell.Tab.1.center/0.40.1366.728@0.40.1366.728" timestamp="1576530947157" />
+    <state width="1306" height="201" key="GridCell.Tab.1.left" timestamp="1576530947157">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1306" height="201" key="GridCell.Tab.1.left/0.40.1366.728@0.40.1366.728" timestamp="1576530947157" />
+    <state width="1306" height="201" key="GridCell.Tab.1.right" timestamp="1576530947157">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1306" height="201" key="GridCell.Tab.1.right/0.40.1366.728@0.40.1366.728" timestamp="1576530947157" />
+    <state x="378" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1576906041944">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="378" y="226" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1576906041944" />
+    <state x="380" y="141" width="606" height="526" key="find.popup" timestamp="1575953433162">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="380" y="141" width="606" height="526" key="find.popup/0.40.1366.728@0.40.1366.728" timestamp="1575953433162" />
+    <state x="65" y="98" key="new project wizard" timestamp="1576785547628">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="65" y="98" key="new project wizard/0.40.1366.728@0.40.1366.728" timestamp="1576785547628" />
+    <state x="339" y="177" key="run.anything.popup" timestamp="1576615739172">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="339" y="177" key="run.anything.popup/0.40.1366.728@0.40.1366.728" timestamp="1576615739172" />
+    <state x="355" y="89" key="search.everywhere.popup" timestamp="1576506338917">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="355" y="89" key="search.everywhere.popup/0.40.1366.728@0.40.1366.728" timestamp="1576506338917" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyFrameWork$Listener.ic" NAME="Listener Coverage Results" MODIFIED="1576152887277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>FrameWork.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyFrameWork$FrameWorkPart1.ic" NAME="FrameWorkPart1 Coverage Results" MODIFIED="1575954212123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>FrameWork.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyFrameWork$C__Users_vishal_IdeaProjects_MyFrameWork_testng_xml.ic" NAME="$PROJECT_DIR$/testng.xml Coverage Results" MODIFIED="1575953897930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

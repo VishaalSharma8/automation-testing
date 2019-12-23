@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="84749" started-at="2019-12-19T23:41:56 IST" finished-at="2019-12-19T23:43:21 IST">
+    <groups>
+    </groups>
+    <test name="C:/Users/vishal/IdeaProjects/MyFrameWork" duration-ms="84749" started-at="2019-12-19T23:41:56 IST" finished-at="2019-12-19T23:43:21 IST">
+      <class name="FrameWork.FrameWorkPart1">
+        <test-method status="PASS" signature="loadConfigFile()[pri:0, instance:FrameWork.FrameWorkPart1@58651fd0]" name="loadConfigFile" is-config="true" duration-ms="94" started-at="2019-12-19T23:41:56 IST" finished-at="2019-12-19T23:41:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfigFile -->
+        <test-method status="PASS" signature="driverSetup()[pri:0, instance:FrameWork.FrameWorkPart1@58651fd0]" name="driverSetup" is-config="true" duration-ms="10928" started-at="2019-12-19T23:41:56 IST" finished-at="2019-12-19T23:42:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method status="PASS" signature="testDataFile()[pri:0, instance:FrameWork.FrameWorkPart1@58651fd0]" name="testDataFile" is-config="true" duration-ms="16" started-at="2019-12-19T23:42:07 IST" finished-at="2019-12-19T23:42:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataFile -->
+        <test-method status="PASS" signature="landingPageTest()[pri:1, instance:FrameWork.FrameWorkPart1@58651fd0]" name="landingPageTest" duration-ms="66219" started-at="2019-12-19T23:42:07 IST" finished-at="2019-12-19T23:43:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingPageTest -->
+        <test-method status="PASS" signature="validateSearchPage()[pri:2, instance:FrameWork.FrameWorkPart1@58651fd0]" name="validateSearchPage" duration-ms="7358" started-at="2019-12-19T23:43:13 IST" finished-at="2019-12-19T23:43:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchPage -->
+      </class> <!-- FrameWork.FrameWorkPart1 -->
+    </test> <!-- C:/Users/vishal/IdeaProjects/MyFrameWork -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

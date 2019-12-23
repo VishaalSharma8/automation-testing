@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="MyFrameWork(failed)">
+    <classes>
+      <class name="FrameWork.FrameWorkPart1">
+        <methods>
+          <include name="validateSearchPage"/>
+          <include name="driverSetupConfigAndLaunchBrowser"/>
+          <include name="loadConfigFile"/>
+        </methods>
+      </class> <!-- FrameWork.FrameWorkPart1 -->
+    </classes>
+  </test> <!-- MyFrameWork(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

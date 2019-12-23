@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="framework Test1"
+           tests="6"
+           failures="1"
+           errors="0"
+           skipped="5"
+           time="-1576610348.451">
+  <properties />
+            <testcase name="driverSetupConfigAndLaunchBrowser" time="141.409" classname="FrameWork.FrameWorkPart1">
+                <failure type="org.openqa.selenium.WebDriverException"
+                  message="WebDriver:NewSession
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;IDEA-PC&apos;, ip: &apos;192.168.0.118&apos;, os.name: &apos;Windows 8&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.2&apos;, java.version: &apos;1.8.0_112&apos;
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: WebDriverError@chrome://marionette/content/error.js:222:5
+UnknownCommandError@chrome://marionette/content/error.js:493:5
+execute/req&lt;@chrome://marionette/content/server.js:513:15
+TaskImpl_run@resource://gre/modules/Task.jsm:321:42
+TaskImpl@resource://gre/modules/Task.jsm:279:3
+asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+execute@chrome://marionette/content/server.js:510:15
+onPacket@chrome://marionette/content/server.js:481:7
+_onJSONObjectReady/&lt;@chrome://marionette/content/transport.js:480:9
+"
+              >
+<![CDATA[org.openqa.selenium.WebDriverException: WebDriver:NewSession
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'IDEA-PC', ip: '192.168.0.118', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_112'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: WebDriverError@chrome://marionette/content/error.js:222:5
+UnknownCommandError@chrome://marionette/content/error.js:493:5
+execute/req<@chrome://marionette/content/server.js:513:15
+TaskImpl_run@resource://gre/modules/Task.jsm:321:42
+TaskImpl@resource://gre/modules/Task.jsm:279:3
+asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+execute@chrome://marionette/content/server.js:510:15
+onPacket@chrome://marionette/content/server.js:481:7
+_onJSONObjectReady/<@chrome://marionette/content/transport.js:480:9
+
+  sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+  sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+  sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+  java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+  org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+  org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+  org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+  java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+  java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+  java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+  java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:498)
+  java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
+  java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+  java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)
+  java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+  java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)
+  org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+  org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+  org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+  org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+  org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+  org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+  org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+  org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:147)
+  org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:125)
+  FrameWork.FrameWorkPart1.driverSetupConfigAndLaunchBrowser(FrameWorkPart1.java:74)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:498)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+  org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+  org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:340)
+  org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:294)
+  org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:623)
+  org.testng.TestRunner.beforeRun(TestRunner.java:613)
+  org.testng.TestRunner.run(TestRunner.java:584)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+  org.testng.SuiteRunner.run(SuiteRunner.java:304)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+  org.testng.TestNG.runSuites(TestNG.java:1032)
+  org.testng.TestNG.run(TestNG.java:1000)
+  com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+  com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+]]>
+      </failure>
+
+          </testcase>
+  
+            <testcase name="tetDataFile" time="0.0" classname="FrameWork.FrameWorkPart1">
+          <skipped />
+    </testcase>
+            <testcase name="saleDetails" time="0.0" classname="FrameWork.FrameWorkPart1">
+          <skipped />
+    </testcase>
+            <testcase name="agentPage" time="0.0" classname="FrameWork.FrameWorkPart1">
+          <skipped />
+    </testcase>
+            <testcase name="landingPageTest" time="0.0" classname="FrameWork.FrameWorkPart1">
+          <skipped />
+    </testcase>
+            <testcase name="validateSearchPage" time="0.0" classname="FrameWork.FrameWorkPart1">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>
