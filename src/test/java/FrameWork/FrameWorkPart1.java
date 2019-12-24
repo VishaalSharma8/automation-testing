@@ -12,6 +12,8 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.*;
 import org.testng.asserts.SoftAssert;
+import org.testng.log4testng.Logger;
+
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.List;
@@ -66,6 +68,10 @@ public class FrameWorkPart1 extends Constants
         String text = driver.findElement(By.xpath("//input[@id='search-input-location']")).getText();
         System.out.println(text);
         selectLocation(testDataProperties.getProperty("locationCity"));
+        
+        //////////////        lOGGER         ///////////////////
+        log = Logger.getLogger(FrameWorkPart1.class);
+        log.info("Click on the Submit button on laanding page");
         driver.findElement(By.xpath("//button[@id='search-submit']")).click();
     }
     public void selectLocation(String location) {
@@ -86,6 +92,7 @@ public class FrameWorkPart1 extends Constants
         System.out.println("location Of Search Page" + searchPageLocation);
         assertion.assertEquals(homePageLocation, searchPageLocation);
          //////////  JavaScriptExecutor /////////////////// To Scroll upto particular element/////////
+         log.info("Scrolliing upto a price tag-index=4 under Validate Search page");
          WebElement listOfElements = driver.findElements(By.xpath("//ul[@data-role='listview']//div[@class='listing-results-wrapper']//a[contains(@class,'text-price')]")).get(4);
          Actions actions = new Actions(driver);
          actions.moveToElement(listOfElements).perform();
