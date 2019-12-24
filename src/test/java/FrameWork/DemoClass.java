@@ -11,6 +11,7 @@ import org.testng.annotations.Test;
 public class DemoClass
 {
     WebDriver driver;
+    
     @Test
     public void scrollTestCase()
     {
