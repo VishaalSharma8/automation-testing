@@ -3,6 +3,7 @@ package FrameWork;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.asserts.SoftAssert;
+import org.testng.log4testng.Logger;
 
 import java.util.Properties;
 
@@ -29,6 +30,7 @@ public class Constants {
     String agentNumberOnSearch;
     String agentNumberOnDetails;
     Properties testDataProperties;
+    Logger log;
 
 
 }
