@@ -10,6 +10,7 @@ public class Constants {
 
 
     public static WebDriver driver = null;
+    
     Properties configProperties;
     SoftAssert assertion;
     WebDriverWait wait;
