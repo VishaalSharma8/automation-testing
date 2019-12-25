@@ -162,6 +162,7 @@ public class FrameWorkPart1 extends Constants
         boolean isFindOutButtonDisplayed = driver.findElement(By.xpath("//a[contains(@data-ga-action,'agents_Find')]")).isDisplayed();
         assertion.assertTrue(isFindOutButtonDisplayed);
         boolean isLoginButtonDisplayed = driver.findElement(By.xpath("//a[contains(@data-ga-action,'agents_Login')]")).isDisplayed();
+        log.info("Click on login button if displayed");
         if (isLoginButtonDisplayed) {
             driver.findElement(By.xpath("//a[contains(@data-ga-action,'agents_Login')]")).click();
         } else {
