@@ -74,7 +74,7 @@ public class CopyTextUsingKeywordEvent extends Constants
 		   String text = copyLocator.getText();
 		   System.out.println(text);
 		   WebElement Name = driver.findElement(By.xpath("//input[@id='userName']"));
-		   act.keyDown(Keys.CONTROL).sendKeys("v").keyUp(Keys.CONTROL).build().perform();
+		   act.keyDown(Keys.CONTROL).sendKeys("v").keyUp(Keys.CONTROL).perform();
 		// Locator of Username/////////////// 
 		
 		
